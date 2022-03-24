@@ -20,6 +20,6 @@ TODO
 <br />
 <br />
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mdp18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdp18&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=default" /></a>
+<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mdp18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdp18&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&theme=default" /></a>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mdp18"/>       
