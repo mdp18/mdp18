@@ -16,7 +16,8 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 TODO
 
 ### My projects
-TODO
+- Code Name: Project Groove (Private Repository)
+- Portfolio 
 
 <br />
 <br />
@@ -24,7 +25,7 @@ TODO
 ### My Github Stats
 <a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=mdp18&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdp18&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&theme=default" /></a>
 <br />
-<b>NOTE:</b> This only includes public github repo's. I have many private repo's that are in JS, Python, and Java.
+<b>NOTE:</b> These stats only includes public github repo's. I have many private repo's that are in JS, Python, and Java.
 <br />
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mdp18"/>       
