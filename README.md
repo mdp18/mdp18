@@ -2,11 +2,12 @@
 My name is Max. I am a Solutions Engineer diving into the world of software engineering and product development.
 
 ### Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
-<a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />&nbsp;&nbsp;</a>
-<a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
-<a href="https://gitlab.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitLab" width="26px" src="https://about.gitlab.com/images/devops-tools/gitlab-logo.svg" />&nbsp;&nbsp;</a>
-<a href="https://github.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitHub" width="36px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="Python" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
+<img align="center" alt="JavaScript" width="25px" src="https://cdn.discordapp.com/attachments/850429790939119709/956590393678499900/icons8-javascript-48.png"/>&nbsp;&nbsp;</a>
+<img align="center" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />&nbsp;&nbsp;</a>
+<img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="GitLab" width="26px" src="https://about.gitlab.com/images/devops-tools/gitlab-logo.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="GitHub" width="36px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
 <br />
 
 
