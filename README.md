@@ -11,8 +11,6 @@ My name is Max. I am a Solutions Engineer diving into the world of software engi
 <img align="center" alt="Flask" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;</a>
 
-<br />
-
 
 ### Projects I am involved in:
 TODO
