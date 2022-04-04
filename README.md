@@ -17,7 +17,6 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 TODO
 
 ### My projects
-- Code Name: Project Groove (Private Repository)
 - Portfolio 
 
 <br />
