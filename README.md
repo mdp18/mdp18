@@ -17,9 +17,9 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 TODO
 
 ### My projects
-- Portfolio 
+- Python/Flask Portfolio Website
 - No-Code Identity API Orchestration SaaS
-- 
+- Tik Tok for Music
 <br />
 <br />
 
