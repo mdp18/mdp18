@@ -14,12 +14,12 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 
 
 ### Projects I am involved in:
-TODO
+- NHost: Open Source BaaS with GraphQL
 
-### My projects
+### My Current Projects
 - Python/Flask Portfolio Website
-- No-Code Identity API Orchestration SaaS
-- Tik Tok for Music
+- Low Code Identity Verification API Orchestration SaaS
+- Next-Generation Music Discovery Application
 <br />
 <br />
 
