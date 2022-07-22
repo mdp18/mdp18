@@ -11,6 +11,7 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 <img align="center" alt="Flask" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;</a>
 <img align="center" alt="Selenium" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;</a>
+<img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;</a>
 
 
 ### Projects I am involved in:
