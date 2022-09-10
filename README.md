@@ -15,10 +15,10 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 <img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;</a>
 
 
-### Projects I am helping:
+### Projects Helped On:
 - NHost: Open Source BaaS with GraphQL
 
-### Current Projects
+### Current Owned Projects:
 - Python/Flask Portfolio Website (Private Repo)
 - Low Code Identity Verification API Orchestration SaaS (Private Repo)
 - Next-Generation Music Discovery Application (Private Repo)
