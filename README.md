@@ -16,7 +16,7 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 
 
 ### Projects Helped On:
-- NHost: Open Source BaaS with GraphQL
+- NHost: Open Source BaaS with GraphQL (https://github.com/nhost)
 
 ### Current Owned Projects:
 - Python/Flask Portfolio Website (Private Repo)
