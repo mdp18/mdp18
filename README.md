@@ -15,13 +15,14 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 <img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;</a>
 
 
-### Projects I am involved in:
+### Projects I am helping:
 - NHost: Open Source BaaS with GraphQL
 
-### Owned Projects
-- Python/Flask Portfolio Website
-- Low Code Identity Verification API Orchestration SaaS
-- Next-Generation Music Discovery Application
+### Current Projects
+- Python/Flask Portfolio Website (Private Repo)
+- Low Code Identity Verification API Orchestration SaaS (Private Repo)
+- Next-Generation Music Discovery Application (Private Repo)
+- Library Genesis Kindle Utility (https://github.com/mdp18/libgen2kindle)
 <br />
 <br />
 
