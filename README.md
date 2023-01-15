@@ -23,6 +23,7 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 - Low Code Identity Verification API Orchestration SaaS (Private Repo)
 - Next-Generation Music Discovery Application (Private Repo)
 - Library Genesis Kindle Utility (https://github.com/mdp18/libgen2kindle)
+- SMB AI Assisted Email Support Platform (Private Repo, Showcase Coming Soon)
 <br />
 <br />
 
