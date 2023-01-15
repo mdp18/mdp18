@@ -16,7 +16,7 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 <img align="center" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;</a>
 
 
-### Projects Helped On:
+### Projects Contributed To:
 - NHost: Open Source BaaS with GraphQL (https://github.com/nhost)
 
 ### Current Owned Projects:
