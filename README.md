@@ -20,9 +20,7 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
 - NHost: Open Source BaaS with GraphQL (https://github.com/nhost)
 
 ### Current Owned Projects:
-- Python/Flask Portfolio Website (Private Repo)
 - Low Code Identity Verification API Orchestration SaaS (Private Repo)
-- Next-Generation Music Discovery Application (Private Repo)
 - Library Genesis Kindle Utility (https://github.com/mdp18/libgen2kindle)
 - SMB AI Assisted Email Support Platform (Private Repo, Video Preview: https://vimeo.com/793948889)
    - Login/Registration
@@ -30,6 +28,7 @@ My name is Max. I am a Solutions Architect diving into the world of software eng
    - Paypal Subscriptions
    - Email Autoreply
    - Email Logs
+- Inventory Management System (Private Repo)
 <br />
 <br />
 
