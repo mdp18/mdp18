@@ -1,5 +1,5 @@
 ## Hey There!
-My name is Max. I am a Solutions Architect diving into the world of software engineering and product development. I have been programming since middle school with my first ever soirée creating forums using various languages such as PHP.
+My name is Max. I am diving into the world of software engineering and product development. I have been programming since middle school with my first ever soirée creating forums using various languages such as PHP.
 
 
 ### Languages and Tools:
