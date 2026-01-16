@@ -16,19 +16,15 @@ My name is Max. I am diving into the world of software engineering and product d
 <img align="center" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;</a>
 
 
-### Projects Contributed To:
-- NHost: Open Source BaaS with GraphQL (https://github.com/nhost)
+### Active Projects:
+- [TeleSign MCP Server](https://github.com/mdp18/telesign-mcp)
 
-### Current Owned Projects:
+### Past Projects:
 - Low Code Identity Verification API Orchestration SaaS (Private Repo)
-- Library Genesis Kindle Utility (https://github.com/mdp18/libgen2kindle)
-- SMB AI Assisted Email Support Platform (Private Repo, Video Preview: https://vimeo.com/793948889)
-   - Login/Registration
-   - Full Database Integration
-   - Paypal Subscriptions
-   - Email Autoreply
-   - Email Logs
-- Inventory Management System (Private Repo)
+- [Library Genesis Kindle Utility](https://github.com/mdp18/libgen2kindle)
+
+### Projects Contributed To:
+- [NHost: Open Source BaaS with GraphQL](https://github.com/nhost)
 <br />
 <br />
 
