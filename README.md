@@ -1,19 +1,25 @@
-## Hey There!
-My name is Max. I am diving into the world of software engineering and product development. I have been programming since middle school with my first ever soirée creating forums using various languages such as PHP.
+# Hey There! 👋
+                                          
+  I'm **Max**, a software engineer and product builder with a passion for developer tools and APIs. I've been coding since middle school — my first venture was building forums with PHP, and
+  I've been hooked ever since.                                                                                                                                                                      
+  By day, I'm a **Solutions Engineer at TeleSign**, helping customers stop fraud on their platforms using phone-based identity and behavioral solutions. In my free time, I'm diving deep into   
+  **LLM/AI development** — exploring how AI agents can make fraud prevention and identity verification smarter and more accessible.
 
+Contact Me!
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdp18@uw.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxpeaslee) 
 
 ### Languages and Tools:
-<img align="center" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
-<img align="center" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"/>&nbsp;&nbsp;</a>
-<img align="center" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />&nbsp;&nbsp;</a>
-<img align="center" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="GitHub" width="30px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
-<br />
-<img align="center" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;</a>
-<img align="center" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;</a>
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)                                                                                      
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
 ### Active Projects:
@@ -29,9 +35,12 @@ My name is Max. I am diving into the world of software engineering and product d
 <br />
 
 ### My Github Stats
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdp18&hide=contribs,prs)
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdp18&show_icons=true&theme=default&hide_border=true)
 <br />
-<b>NOTE:</b> These stats only includes public github repo's. I have many private repo's that are in JS, Python, and Java.
+Top Languages:                                                                                                                                                                                   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdp18&layout=compact&hide_border=true)
 <br />
+Streak Stats (from different repo):
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdp18&hide_border=true)
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mdp18"/>       
