@@ -40,7 +40,4 @@ Contact Me!
 Top Languages:                                                                                                                                                                                   
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdp18&layout=compact&hide_border=true&theme=tokyonight)
 <br />
-Streak Stats (from different repo):
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdp18&show_icons=true&hide_border=true&theme=tokyonigh)
-<br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mdp18"/>       
