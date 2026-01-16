@@ -30,7 +30,6 @@ Contact Me!
 
 ### Projects Contributed To:
 - [NHost: Open Source BaaS with GraphQL](https://github.com/nhost)
-<br />
 
 ### My Github Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mdp18&show_icons=true&hide_border=true&theme=tokyonigh)
