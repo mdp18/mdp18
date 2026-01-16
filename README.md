@@ -29,7 +29,7 @@ My name is Max. I am diving into the world of software engineering and product d
 <br />
 
 ### My Github Stats
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdp18)](https://github.com/anuraghazra/github-readme-stats)
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdp18&hide=contribs,prs)
 <br />
 <b>NOTE:</b> These stats only includes public github repo's. I have many private repo's that are in JS, Python, and Java.
 <br />
