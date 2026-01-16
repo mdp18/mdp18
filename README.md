@@ -21,7 +21,6 @@ Contact Me!
   ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-
 ### Active Projects:
 - [TeleSign MCP Server](https://github.com/mdp18/telesign-mcp)
 
@@ -31,7 +30,6 @@ Contact Me!
 
 ### Projects Contributed To:
 - [NHost: Open Source BaaS with GraphQL](https://github.com/nhost)
-<br />
 <br />
 
 ### My Github Stats
