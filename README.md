@@ -35,12 +35,12 @@ Contact Me!
 <br />
 
 ### My Github Stats
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdp18&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mdp18&show_icons=true&hide_border=true&theme=tokyonigh)
 <br />
 Top Languages:                                                                                                                                                                                   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdp18&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdp18&layout=compact&hide_border=true&theme=tokyonight)
 <br />
 Streak Stats (from different repo):
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdp18&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdp18&show_icons=true&hide_border=true&theme=tokyonigh)
 <br />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mdp18"/>       
