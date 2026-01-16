@@ -6,6 +6,7 @@
   **LLM/AI development** — exploring how AI agents can make fraud prevention and identity verification smarter and more accessible.
 
 Contact Me!
+
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdp18@uw.edu)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxpeaslee) 
