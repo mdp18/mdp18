@@ -25,6 +25,14 @@ Contact Me!
 
 ### Active Projects:
 - [TeleSign MCP Server](https://github.com/mdp18/telesign-mcp)
+- Hawks WMS Platform - Warranty Management System for knife manufacturing company.
+- HawksOps Dashboard - WIP platform that will include a fully interactive management dashboard for:
+          - Parts Inventory
+          - Financials
+          - Dealer Network
+          - Logistics
+          - Employee operations and attendance
+          - Fleet management
 
 ### Past Projects:
 - Low Code Identity Verification API Orchestration SaaS (Private Repo)
