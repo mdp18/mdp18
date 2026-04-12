@@ -25,6 +25,7 @@ Contact Me!
 
 ### Active Projects:
 - [TeleSign MCP Server](https://github.com/mdp18/telesign-mcp)
+- [TeleSign Batch API Calling](https://github.com/mdp18/TeleSign-PhoneID-Batch-Script) - Simple Script to be able to provide a CSV of phone numbers and run all of TeleSign's PhoneID addons at once and output via CSV.
 - Hawks WMS Platform - Warranty Management System for knife manufacturing company.
 - HawksOps Dashboard - WIP platform that will include a fully interactive management dashboard for:
           - Parts Inventory
